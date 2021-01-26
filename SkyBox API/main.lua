@@ -10,10 +10,10 @@ if Skybox == "Alien Purple" then
 end
 
 if Skybox == "Alien" then
-    Sky.SkyboxBk = "http://www.roblox.com/asset/?version=1&id=1012890"
-    Sky.SkyboxDn = "http://www.roblox.com/asset/?version=1&id=1012891"
-    Sky.SkyboxFt = "http://www.roblox.com/asset/?version=1&id=1012887"
-    Sky.SkyboxLf = "http://www.roblox.com/asset/?version=1&id=1012889"
-    Sky.SkyboxRt = "http://www.roblox.com/asset/?version=1&id=1012888"
-    Sky.SkyboxUp = "http://www.roblox.com/asset/?version=1&id=1014449"
+    Sky.SkyboxBk = "rbxassetid://1012890"
+    Sky.SkyboxDn = "rbxassetid://1012891"
+    Sky.SkyboxFt = "rbxassetid://1012887"
+    Sky.SkyboxLf = "rbxassetid://1012889"
+    Sky.SkyboxRt = "rbxassetid://1012888"
+    Sky.SkyboxUp = "rbxassetid://1014449"
 end
